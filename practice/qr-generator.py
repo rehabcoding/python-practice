@@ -17,3 +17,12 @@ img = qr.make_image(fill_color = 'black', back_color = 'white')
 # boxes to be black, background to be white, as standard qr codes are
 
 img.save('youtube_qr.png')
+
+# try these :
+# Allow the website link to be typed in using input() function.
+# Allow users to customize the QR code generated.
+# Automate the process to create multiple QR codes.
+# Include more functions (or object parameters) of the qrcode library.
+# Try changing the colors and styles of the generated QR codes using different drawer modules and fill colors.
+# Use an application library (like Tkinter) to add a user interface.
+# Check out other QR code libraries like pyqrcode.
